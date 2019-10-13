@@ -1,2 +1,2 @@
 # Math_EDP
- Approximation methods for partial differential equations
+ The FD_CN file relies on the development of Foward Difference and Crank-Nicolson methods to approximate an example function.
